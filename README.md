@@ -2,5 +2,5 @@
 Tällä repositoriolla harjoitellaan forkkaamista
 
 ## Lisää nimesi tämän otsikon alle
-Jimi
+Jimi Aivio
 Artem Olshanchenko
